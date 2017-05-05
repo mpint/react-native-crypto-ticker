@@ -17,7 +17,7 @@ npm start
 ## Screenshots
 
 Ticker
-![ticker][https://github.com/mpint/react-native-crypto-ticker/tree/master/assets/news.png "News"]
+![ticker](./assets/news.png "Ticker")
 
 News
-![news][https://github.com/mpint/react-native-crypto-ticker/tree/master/assets/tickers.png, "Tickers"]
+![news](./assets/tickers.png "News")
